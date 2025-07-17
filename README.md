@@ -8,7 +8,7 @@ Dies ist das Repository für den **LinkedIn Learning** Kurs `Grundkurs Webtechni
 Lernen Sie in diesem ersten Kurs der mehrteiligen Einsteigerreihe das Fundament jeder Website kennen: die Auszeichnungssprache HTML. Und das beste dabei ist, dass HTML eine vergleichsweise einfache Sprache ist. Peter M. Müller zeigt Ihnen, wie Sie Ihre Websites auf einem stabilen Fundament errichten. Erwerben Sie solide HTML-Kenntnisse oder frischen Sie Ihren Wissensstand auf. Mit Hilfe von Code-Challenges am Ende eines Kapitels können Sie das Erlernte sofort testen und Ihre Lösung auch gleich mit der angebotenen Solution vergleichen.
 
 
-## Installation
+## Übungsdateien herunterladen
 
 Sie können die Übungsdateien herunterladen, in dem Sie oben rechts auf den grünen Button »Code« klicken und im Dropdown-Menü dann die Option »Download ZIP« auswählen. 
 
